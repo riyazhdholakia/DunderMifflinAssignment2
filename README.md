@@ -4,6 +4,6 @@
 #### Contributors:
 1 [Riyazh Dholakia](https://github.com/riyazhdholakia)
 
-2 Anli Ji @annieee6446
+2 [Anli Ji](https://github.com/annieee6446)
 
 3 [Brian Cabau](https://github.com/bcabau1)
