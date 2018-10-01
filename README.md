@@ -7,3 +7,5 @@
 2 [Anli Ji](https://github.com/annieee6446)
 
 3 [Brian Cabau](https://github.com/bcabau1)
+
+4 [Jimmy Petit Homeis](https://github.com/jimmypetith)
