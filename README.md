@@ -1,5 +1,5 @@
 # DunderMifflinAssignment2
-Comp Org Prog Mussa Assignment 2: DunderMifflin
+### Comp Org Prog Mussa Assignment 2: DunderMifflin
 
-Contributors:
+#### Contributors:
 1 Riyazh Dholakia: @riyazhdholakia
