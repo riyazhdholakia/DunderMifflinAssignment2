@@ -6,4 +6,4 @@
 
 2 Anli Ji @annieee6446
 
-3 Brian Cabau @bcabau1
+3 [Brian Cabau](https://github.com/bcabau1)
