@@ -2,4 +2,4 @@
 Comp Org Prog Mussa Assignment 2: DunderMifflin
 
 Contributors:
-1: @riyazhdholakia
+1 Riyazh Dholakia: @riyazhdholakia
